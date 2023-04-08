@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kikaccc29.github.io/react_user_add/static/css/main.93c25ae2.css",
+    "main.js": "/kikaccc29.github.io/react_user_add/static/js/main.b3971ae9.js",
+    "index.html": "/kikaccc29.github.io/react_user_add/index.html",
+    "main.93c25ae2.css.map": "/kikaccc29.github.io/react_user_add/static/css/main.93c25ae2.css.map",
+    "main.b3971ae9.js.map": "/kikaccc29.github.io/react_user_add/static/js/main.b3971ae9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93c25ae2.css",
+    "static/js/main.b3971ae9.js"
+  ]
+}
